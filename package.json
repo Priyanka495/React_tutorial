@@ -1,0 +1,25 @@
+{
+  "name": "priyanka-react",
+  "version": "1.0.0",
+  "description": "This is tutorial",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Priyanka Kumari",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
